@@ -5,10 +5,6 @@ Este é o resultado do desafio final do Explorer, o Food Explorer. Nele realizei
 ## ℹ️ Sobre
 O Food Explorer é uma aplicação web de um restaurante. Após se cadastrar na plataforma, você estará apto a criar os pedidos e acompanhar o status deles. Há ainda uma personalização de perfil, filtragem de favoritos, campo de busca e uma seção de contato com o restaurante. O carrinho é 100% funcional e você pode escolher entre 2 formas de pagamento (cartão ou Pix). O administrador tem a capacidade de criar, editar e remover os pratos de acordo com a sua preferência. Além disso, ele pode alterar o status dos pedidos, de acordo com a linha de preparo dos mesmos na cozinha. Esse status será imediatamente atualizado na tela dos consumidores. O projeto conta com diversos "extras" que adicionei, como a possibilidade de mudança de tema da página e customização do perfil do usuário (avatar, nome e senha). Além disso, possui diversos efeitos visuais e é responsivo para a utilização em diversos tipos de dispositivos!
 
-## 🎨 Layout
-A página inicial em formato desktop é vista na imagem abaixo:
-
-![foodexplorer](foodexplorer_vercel_app.png)
 
 ## ⚙️ Tecnologias
 As seguintes tecnologias foram empregadas na criação deste projeto:
